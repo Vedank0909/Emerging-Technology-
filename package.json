@@ -10,5 +10,13 @@
     "nodeJS"
   ],
   "author": "Vedank Patel",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vedank0909/Emerging-Technology-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vedank0909/Emerging-Technology-/issues"
+  },
+  "homepage": "https://github.com/Vedank0909/Emerging-Technology-#readme"
 }
